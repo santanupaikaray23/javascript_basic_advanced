@@ -105,3 +105,35 @@ var b = [1,2,3]
 a.concat(b)
 ["a","b","c",1,1,2,3]
 
+indexof:
+
+var city = ["BBSR","Delhi","NewYoke","Paris"]
+var city = ["BBSR","Delhi","NewYoke","Paris"]
+undefined
+city.indexOf('NewYoke')
+2
+city.indexOf('BBSR')
+0
+city.indexOf('Bangalore')
+-1
+city.indexOf('Paris')
+3
+
+var a ="hii"
+undefined
+var b = ['hi']
+undefined
+Array.isArray(a)
+false
+Array.isArray(b)
+true
+
+sorting:
+
+var city = ["BBSR","Delhi","NewYoke","Paris"]
+city.sort()
+(4) ['BBSR', 'Delhi', 'NewYoke', 'Paris']
+
+var city = ["BBSR","Delhi",1,2,2,false,true,agra,"NewYoke",'delhi',"Paris"]
+
+var myarray = ["BBSR","Delhi",['Red',["Bmw","Audi","Skoda"],'Blue','Green'],"NewYoke","Paris"]

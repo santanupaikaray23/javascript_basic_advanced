@@ -1,0 +1,45 @@
+->what is Ecma Script??
+Ans:It is the standard of writing javascript.
+->There are three major datatype javascript support.
+1 - String(Any thing that come under single quotes or double quotes. ex-"Hi","Hello",'Delhi','2345',"345.56",'true')
+2 - Number(Any Numeric value that basically refers as the Number that is desimal or without desimal Ex-33 345663 34.44 .44)
+3 - Boolean(true, false)
+
+/////////es5/////////////
+Declare variable
+
+->var is the keyword which has used to define any kind of variable.
+var a = 10(Number)
+var b = "hi"(String)
+var c = true(Boolean)
+->There is inbuild method is called typeof.
+Ex : 
+var a = 20
+var b = 10
+a+b
+30
+
+-> what is the percent do(%)?
+Ans: Moduler devision
+-> var a = "hi"
+var b = "javascript"
+a+b(concat)
+"hiijavascript"
+Summery:
+---------
+String + String = String
+String+Number = String
+String+String = String
+Number+Number = Number
+
+"a"-1
+NaN
+"10"-1
+9
+"10"*2
+20
+"10a"/2
+NaN
+"10"+1
+"101"
+
